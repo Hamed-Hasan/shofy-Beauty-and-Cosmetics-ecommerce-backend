@@ -1,7 +1,7 @@
-# Shofy – Full Stack eCommerce Web Application + Admin Panel
+# Shofy Beauty & Cosmetics – Full Stack eCommerce Web Application + Admin Panel
 
 
-![Shofy Image Banner](https://i.ibb.co/KsDDmmg/shofy-banner.png)
+![Shofy Image Banner](https://i.ibb.co/yBHL1wj/beauty-cosmetics.png)
 
 Shofy is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
@@ -72,7 +72,7 @@ To get started with Shofy, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git
+   https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-backend.git
    ```
 
 2. Install dependencies:
@@ -99,7 +99,7 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Live Link
 
-[Shofy Client Side Live Link](https://shofy-front-end.vercel.app)
+[Shofy Client Side Live Link](https://shofy-beauty-cosmetics-ecommerce.vercel.app)
 
 ## Server Side Live Link
 
@@ -107,11 +107,11 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Repo
 
-[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-client.git)
+[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-client.git)
 
 ## Server Side Repo
 
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git)
+[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-backend.git)
 
 ## Sources and Credits
 
